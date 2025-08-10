@@ -1,0 +1,15 @@
+Case: ,Best    ,Array Size:  ,10,Target:   ,0,Result Index:   ,5,Time:       ,7.00,microseconds
+Case: ,Best    ,Array Size:  ,100,Target:   ,0,Result Index:   ,50,Time:       ,1.00,microseconds
+Case: ,Best    ,Array Size:  ,1000,Target:   ,0,Result Index:   ,500,Time:       ,0.00,microseconds
+Case: ,Best    ,Array Size:  ,5000,Target:   ,0,Result Index:   ,2500,Time:       ,1.00,microseconds
+Case: ,Best    ,Array Size:  ,10000,Target:   ,0,Result Index:   ,5000,Time:       ,1.00,microseconds
+Case: ,Worst   ,Array Size:  ,10,Target:   ,500,Result Index:   ,-1,Time:       ,0.00,microseconds
+Case: ,Worst   ,Array Size:  ,100,Target:   ,500,Result Index:   ,-1,Time:       ,1.00,microseconds
+Case: ,Worst   ,Array Size:  ,1000,Target:   ,500,Result Index:   ,-1,Time:       ,0.00,microseconds
+Case: ,Worst   ,Array Size:  ,5000,Target:   ,500,Result Index:   ,3000,Time:       ,2.00,microseconds
+Case: ,Worst   ,Array Size:  ,10000,Target:   ,500,Result Index:   ,5500,Time:       ,1.00,microseconds
+Case: ,Average ,Array Size:  ,10,Target:   ,3,Result Index:   ,8,Time:       ,1.00,microseconds
+Case: ,Average ,Array Size:  ,100,Target:   ,35,Result Index:   ,85,Time:       ,0.00,microseconds
+Case: ,Average ,Array Size:  ,1000,Target:   ,450,Result Index:   ,950,Time:       ,1.00,microseconds
+Case: ,Average ,Array Size:  ,5000,Target:   ,2100,Result Index:   ,4600,Time:       ,0.00,microseconds
+Case: ,Average ,Array Size:  ,10000,Target:   ,6000,Result Index:   ,-1,Time:       ,0.00,microseconds
